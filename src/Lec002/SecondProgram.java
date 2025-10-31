@@ -2,6 +2,6 @@ package Lec002;
 
 public class SecondProgram {
     public static void main() {
-        System.out.println(2+12);
+        System.out.println(2+34);
     }
 }
